@@ -4,3 +4,5 @@
   <img src="https://github.com/bog2an/bog2an/blob/main/Hi.gif" width="30px">
 </h1>
 <img width="40%" align="right" src="https://github.com/bog2an/bog2an/blob/main/workbench.svg">
+
+<p align="center"> <img src="https://github.com/bog2an" alt="Bogdan"/>
