@@ -4,7 +4,7 @@
   <img src="https://github.com/bog2an/bog2an/blob/main/Hi.gif" width="30px">
 </h1>
 
-<img width="30%" align="right" src="https://github.com/bog2an/bog2an/blob/main/workbench.svg">
+<img width="20%" align="right" src="https://github.com/bog2an/bog2an/blob/main/workbench.svg">
 
 A bit about Myself, I am <b>Bogdan</b>.
 As of now, I am focused on <b>web development</b> but still, wish to explore many fields.
