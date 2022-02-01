@@ -17,8 +17,11 @@ As of now, I am focused on <b>web development</b> but still, wish to explore man
 
 <h1 align="center">Let's Get Connected</h1>
 <div align="center">
-<a  href="https://t.me/ibog2an"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a  href="https://www.instagram.com/ibog2an/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a  href="https://t.me/ibog2an"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a  href="https://www.instagram.com/ibog2an/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</div>
+
+<div>
 </div>
 
 <table>
