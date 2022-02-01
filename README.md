@@ -5,19 +5,16 @@
 </h1>
 
 <img width="20%" align="right" src="https://github.com/bog2an/bog2an/blob/main/workbench.svg">
+
 <p>
   A bit about Myself, I am <b>Bogdan</b>.
   As of now, I am focused on <b>web development</b> but still, wish to explore many fields.
 </p>
+
 <a  href="https://t.me/ibog2an"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a  href="https://www.instagram.com/ibog2an/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-<h3 align="center"> Web Developer</h3>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=bog2an&label=Profile%20views&color=6805D3&style=flat"/>
-</p>
-
+<p><img src="https://komarev.com/ghpvc/?username=bog2an&label=Profile%20views&color=6805D3&style=flat"/></p>
 
 
 <table>
