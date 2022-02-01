@@ -16,6 +16,7 @@
 
 <p><img src="https://komarev.com/ghpvc/?username=bog2an&label=Profile%20views&color=6805D3&style=flat"/></p>
 
+<h2>Technical Skills 🛠</h2>
 
 <table>
   <tr>
