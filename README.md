@@ -4,7 +4,7 @@
   <img src="https://github.com/bog2an/bog2an/blob/main/Hi.gif" width="30px">
 </h1>
 
-<img width="20%" align="right" src="https://github.com/bog2an/bog2an/blob/main/workbench.svg">
+<img width="40%" align="right" src="https://github.com/bog2an/bog2an/blob/main/workbench.svg">
 
 <p>
   A bit about Myself, I am <b>Bogdan</b>.
