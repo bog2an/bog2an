@@ -4,6 +4,7 @@
   <img src="https://github.com/bog2an/bog2an/blob/main/Hi.gif" width="30px">
 </h1>
 <img width="30%" align="right" src="https://github.com/bog2an/bog2an/blob/main/workbench.svg">
+
 [![GitHub followers](https://img.shields.io/github/followers/bog2an.svg?style=social&label=Follow)](https://github.com/bog2an?tab=followers)
 
 A bit about Myself, I am <b>Bogdan</b>.
