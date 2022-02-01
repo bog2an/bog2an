@@ -13,3 +13,8 @@ As of now, I am focused on <b>web development</b> but still, wish to explore man
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=bog2an&label=Profile%20views&color=6805D3&style=flat"/>
 </p>
+
+
+[![bog2an's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=bog2an&theme=xcode)](https://git.io/bog2an)
+
+[![GitHub followers](https://img.shields.io/github/followers/bog2an.svg?style=social&label=Follow)](https://github.com/bog2an?tab=followers)
