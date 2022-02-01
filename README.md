@@ -5,8 +5,8 @@
 </h1>
 <img width="40%" align="right" src="https://github.com/bog2an/bog2an/blob/main/workbench.svg">
 
-<h3>
+
   <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=bog2an&label=Profile%20views&color=6805D3&style=flat"/>
   </p>
-</h3>
+
